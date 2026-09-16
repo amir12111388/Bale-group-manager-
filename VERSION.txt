@@ -1,0 +1,4 @@
+Bale Group Manager Pro
+Version: 2.0.0-latest
+Build: 2026-06-24
+Notes: Full latest build with Persian commands, pro panel, PM sales, customization, user features, trusted/VIP users, smart anti-ad, install flow, and fast group purge.
